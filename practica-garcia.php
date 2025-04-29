@@ -3,8 +3,10 @@
  * Script para la tarea 5 de Despliegue de aplicaciones.
  * 
  * @author Manuel García Márquez
- * @version 1.0
+ * @version 1.1 //Se modifica y hacen algunos cambios. 
  */
+//Linea modificada
+//Cambio realizado en el archivo
 
 /**
  * Resuelve una ecuación cuadrática de la forma ax^2 + bx + c = 0
