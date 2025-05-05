@@ -7,7 +7,7 @@
  */
 //Linea modificada
 //Cambio realizado en el archivo
-
+//Editado desde GitHub
 /**
  * Resuelve una ecuación cuadrática de la forma ax^2 + bx + c = 0
  * La fórmula utilizada es: (-b ± sqr(b^2 - 4ac)) / 2a.
